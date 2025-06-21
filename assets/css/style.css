@@ -1,0 +1,27 @@
+.banner{
+    background-image: url("../imagen/banner.jpg");
+    text-align: center;
+    color: black;
+    padding: 60px;
+    background-size: cover;
+    background-position: center;
+}
+
+.item-image{
+    width: 30%;
+    margin: 20px;
+    display: list-item;
+
+}
+.flexbox-container{
+    display: flex;
+}
+
+.pie-pagina{
+    background-image: url("../imagen/pie-pagina.jpg");
+    text-align: center;
+    color: white;
+    padding: 60px;
+    background-size: cover;
+    background-position: center;
+}
